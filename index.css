@@ -1,0 +1,12 @@
+header,main{
+    max-width: 90%;
+    margin: 0% auto;
+}
+.micarousel{
+ max-height: 45%;
+}
+.cartas{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

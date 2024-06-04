@@ -1,0 +1,60 @@
+body{
+    background-color:#222831}
+
+
+h1{
+    text-align: center;
+    color: greenyellow;
+    background-color:#31363F ;
+    padding: 15px;
+
+
+}
+h3{
+    color: red;
+}
+p{
+background-color: #31363F;
+    font-size: 40px;
+    color: white;
+}
+a{text-decoration: none;
+    color: aqua;
+    font-size: 30px;
+
+}
+ nav ol li {
+    list-style: none;
+    display:inline-block;
+    padding: 0px 5px;
+}
+nav ol{
+    text-align: center;
+}
+section article div h3 span{
+    color: chartreuse;
+}
+.fondo{
+    display: flex;
+    background-image: url(https://www.todofondos.net/wp-content/uploads/1920x1080-Fondo-de-fondo-de-fondo-gris-1024x576.jpg);
+    
+}
+h3{
+    color: chartreuse;
+}
+.parrafoIMG{
+    display: flex;
+}
+.fondo{
+    display: flex;
+}
+footer{
+    display: flex;
+    justify-content:space-around;
+}
+
+ol li i {
+    color: white;
+}
+ol i { color: white;}
+ 
